@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NPe8UEdmzSJsRgXpIcQwvLmk10u3kZglvWXFxNuKAr4i16Ovq93Z8PiMCvHKHSumUzPRkC+x7KGdjA3F23KjAQ==",
+  "dgSpecHash": "SJCTBHbq6iFFi9PP1db3m8b2BXE7+8BYJ9QD2a9U4YglyvbWPoivVKBqB8zyZ2NybguNFo5AqDvgePI936qVdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\OneDrive\\Área de Trabalho\\Cursos udemy\\c#\\Xadrez-Repositorio\\Xadrez 2.0\\xadrez-console\\xadrez-console.csproj",
+  "projectFilePath": "C:\\Users\\david\\OneDrive\\Área de Trabalho\\Cursos udemy\\c#\\Xadrez\\xadrez-console\\xadrez-console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
