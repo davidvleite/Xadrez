@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\bin\Debug\net6.0\xadrez-console.exe
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\bin\Debug\net6.0\xadrez-console.deps.json
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\bin\Debug\net6.0\xadrez-console.runtimeconfig.json
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\bin\Debug\net6.0\xadrez-console.dll
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\bin\Debug\net6.0\xadrez-console.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\obj\Debug\net6.0\xadrez-console.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\obj\Debug\net6.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\obj\Debug\net6.0\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\obj\Debug\net6.0\xadrez-console.AssemblyInfo.cs
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\obj\Debug\net6.0\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\obj\Debug\net6.0\xadrez-console.dll
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\obj\Debug\net6.0\refint\xadrez-console.dll
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\obj\Debug\net6.0\xadrez-console.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\obj\Debug\net6.0\xadrez-console.genruntimeconfig.cache
+C:\Users\david\OneDrive\Área de Trabalho\Cursos udemy\c#\Projeto1\Xadrez 2.0\xadrez-console\obj\Debug\net6.0\ref\xadrez-console.dll
