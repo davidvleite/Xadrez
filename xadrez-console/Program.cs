@@ -7,14 +7,14 @@ namespace xadrez_console
     {
         static void Main(string[] args)
         {
-            /*try
+            try
             {
                 Tabuleiro tab = new Tabuleiro(8, 8);
 
                 tab.colocarpeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
                 tab.colocarpeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
                 tab.colocarpeca(new Rei(tab, Cor.Preta), new Posicao(2, 4));
-
+                tab.colocarpeca(new Torre(tab, Cor.Branca), new Posicao(3, 5));
 
                 Tela.imiprimirTabuleiro(tab);
 
@@ -25,9 +25,9 @@ namespace xadrez_console
             }
 
 
-            Console.ReadLine();*/
+            Console.ReadLine();
 
-            PosicaoXadrez pos = new PosicaoXadrez('A', 1);
+            PosicaoXadrez pos = new PosicaoXadrez('a', 1);
             Console.Write(pos);
             Console.ReadLine();
 
